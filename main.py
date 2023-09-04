@@ -1,5 +1,5 @@
 import os
-
+import sys
 
 def effacer_ecran():
     """Cette fonction permet d'effacer l'ecran"""
